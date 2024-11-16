@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iotserver24&label=Profile%20views&color=0e75b6&style=flat" alt="iotserver24" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iotserver24" alt="iotserver24" /></a> </p>
 
