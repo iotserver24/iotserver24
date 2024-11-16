@@ -6,8 +6,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
----
-- 📫 How to reach me **anish2k6rao@gmail.com**
+## 📫 How to reach me **anish2k6rao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
