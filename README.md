@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">A passionate Student developer from India</h3>
+<h3 align="center">A passionate Student developer and otaku fan from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iotserver24&label=Profile%20views&color=0e75b6&style=flat" alt="iotserver24" /> </p>
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/r3ap3r_designz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r3ap3r_designz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/r3ap3redit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r3ap3redit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@R3AP3Redit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="R3AP3Redit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
