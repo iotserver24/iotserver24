@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Anish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anish Kumar (a.k.a R3AP3R editz)</h1>
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
 
 ## 🏆 GitHub Trophies:
