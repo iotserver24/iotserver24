@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
 <p align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG00Z3N6dGZ2eGN2eTByeWludnNzbGl2eHB4NjBsczZqeGRuNnB0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hCsO5i/giphy.gif" alt="Anime GIF" width="400"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHgyZTUxYTNjbmozcGYyMHhia3V5cjZpenZiNHE1OHFmdDh4aHhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Anime GIF" width="400"/>
     </p>
 ## 🏆 GitHub Trophies:
 <p align="center">
