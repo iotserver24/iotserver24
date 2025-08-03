@@ -7,9 +7,9 @@
 
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHgyZTUxYTNjbmozcGYyMHhia3V5cjZpenZiNHE1OHFmdDh4aHhvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Anime GIF" width="400"/>
-</p>
+
 ## 🏆 GitHub Trophies:
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
