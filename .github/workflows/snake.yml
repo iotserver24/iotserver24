@@ -31,7 +31,7 @@ jobs:
         id: snk-dark
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: 'dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23DC143C&color_dots=%230d1117,%231a0000,%23330000,%23660000,%23DC143C'
+          outputs: 'dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300FF00&color_dots=%230d1117,%23003300,%23006600,%23009900,%2300FF00'
           svg_out_size: 1040_620
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
