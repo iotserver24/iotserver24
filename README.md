@@ -72,6 +72,7 @@
   </a>
   &nbsp;
   <a href="https://razorpay.me/@megavault">
-    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay(in INR)" />
+  
   </a>
 </p>
