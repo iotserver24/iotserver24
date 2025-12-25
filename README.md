@@ -7,7 +7,10 @@
 </h1>
 
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
+
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iotserver24&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -48,3 +51,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/iotserver24/iotserver24/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+## 💖 Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/r3ap3redit">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://razorpay.me/@megavault">
+    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+  </a>
+</p>
