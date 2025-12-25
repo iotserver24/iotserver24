@@ -1,29 +1,45 @@
-name: 3D Contribution Graph
+# 🎮 3D Contribution Calendar - Super cool 3D visualization!
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: diff-branch
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-3d-contrib@main
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: List profile folder
+        run: ls -la profile-3d-contrib || true
+
+      - name: Push to 'diff' branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: diff
-          commit_message: "chore: update 3D contribution graph"
-
-      - name: Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "chore: update 3D contribution graph" || true
-          git push origin diff
+          build_dir: profile-3d-contrib
+          commit_message: "🎮 Update 3D contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
