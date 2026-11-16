@@ -8,14 +8,14 @@
 
 <h3 align="center">A passionate Student developer and otaku fan from India</h3>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=iotserver24&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 - website: **<https://anishkumar.tech>**
@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=iotserver24&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+<p><img src="https://github-stats-extended.vercel.app/api?username=iotserver24&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iotserver24&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iotserver24&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /></p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iotserver24&theme=radical&hide_border=false&layout=compact" alt="Top Languages" /></p>
 
 
 
