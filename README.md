@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> 
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=iotserver24&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
