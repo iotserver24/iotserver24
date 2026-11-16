@@ -76,8 +76,8 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
   &nbsp;
-  <a href="https://razorpay.me/@megavault">
-    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay(in INR)" />
+  <a href="https://razorpay.me/@R3AP3Redit">
+    <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay(in INR and dollars as well)" />
   
   </a>
 </p>
